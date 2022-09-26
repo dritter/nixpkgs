@@ -23,6 +23,7 @@
 
 stdenv.mkDerivation rec {
   pname = "gnome-console";
+  # Do not upgrade until https://gitlab.gnome.org/GNOME/vte/-/issues/2584 is resolved!
   version = "42.2";
 
   src = fetchurl {
