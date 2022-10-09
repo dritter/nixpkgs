@@ -3,11 +3,11 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}.tar.gz",
-      "version": "2022.2.1",
-      "sha256": "a0d9e77ad4afbb5f7d69e23cf84ccf132eed6ead6c3a7cd442b33924e6931656",
-      "url": "https://download.jetbrains.com/cpp/CLion-2022.2.1.tar.gz",
-      "version-major-minor": "2022.1",
-      "build_number": "222.3739.54"
+      "version": "2022.2.3",
+      "sha256": "e0338107115231c4b354870dfcf537ba6ad1741a0d310e4e50c48dfc24ff9cce",
+      "url": "https://download.jetbrains.com/cpp/CLion-2022.2.3.tar.gz",
+      "version-major-minor": "2022.2",
+      "build_number": "222.4167.35"
     },
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
@@ -113,11 +113,11 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}.dmg",
-      "version": "2022.2.1",
-      "sha256": "ba2a8fcf9a1f080ca6b2ef832b13104c440077b9e6a2bb6e26bc97bdea373208",
-      "url": "https://download.jetbrains.com/cpp/CLion-2022.2.1.dmg",
-      "version-major-minor": "2022.1",
-      "build_number": "222.3739.54"
+      "version": "2022.2.3",
+      "sha256": "d7e0dcbb3c28f383d1365f5cb6d2b55afbb8c638fd9f100b8040f72b394a1aed",
+      "url": "https://download.jetbrains.com/cpp/CLion-2022.2.3.dmg",
+      "version-major-minor": "2022.2",
+      "build_number": "222.4167.35"
     },
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
@@ -223,11 +223,11 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}-aarch64.dmg",
-      "version": "2022.2.1",
-      "sha256": "af36f7f9a98881d37d89757083875494c472e60d14bd70fe0d08533d284dd4e1",
-      "url": "https://download.jetbrains.com/cpp/CLion-2022.2.1-aarch64.dmg",
-      "version-major-minor": "2022.1",
-      "build_number": "222.3739.54"
+      "version": "2022.2.3",
+      "sha256": "d921c83ee6b444520e7fdb9fdae4ec0e67cea6dfcaa720e6b36d85c17a4df39c",
+      "url": "https://download.jetbrains.com/cpp/CLion-2022.2.3-aarch64.dmg",
+      "version-major-minor": "2022.2",
+      "build_number": "222.4167.35"
     },
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
