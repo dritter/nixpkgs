@@ -30,11 +30,11 @@
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIC-{version}.tar.gz",
-      "version": "2022.2.1",
-      "sha256": "93eb9391a898aad164ca47965e0445cbf0f04d7062b6875c4e4a3136799ee6cf",
-      "url": "https://download.jetbrains.com/idea/ideaIC-2022.2.1.tar.gz",
-      "version-major-minor": "2022.1",
-      "build_number": "222.3739.54"
+      "version": "2022.2.3",
+      "sha256": "4ba5faafad48d58db5099fae080ae2238086d3d9803080082de8efe35d8bf4ed",
+      "url": "https://download.jetbrains.com/idea/ideaIC-2022.2.3.tar.gz",
+      "version-major-minor": "2022.2",
+      "build_number": "222.4345.14"
     },
     "idea-ultimate": {
       "update-channel": "IntelliJ IDEA RELEASE",
@@ -140,11 +140,11 @@
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIC-{version}.dmg",
-      "version": "2022.2.1",
-      "sha256": "9c1402f8682ecefe84ae9494c65b80da1b763664624a7f6b0104b044b4cb687a",
-      "url": "https://download.jetbrains.com/idea/ideaIC-2022.2.1.dmg",
-      "version-major-minor": "2022.1",
-      "build_number": "222.3739.54"
+      "version": "2022.2.3",
+      "sha256": "6ec3721d9961918a14630eaf068765eeba97e71baecd95ec67510dc25c8bd1b1",
+      "url": "https://download.jetbrains.com/idea/ideaIC-2022.2.3.dmg",
+      "version-major-minor": "2022.2",
+      "build_number": "222.4345.14"
     },
     "idea-ultimate": {
       "update-channel": "IntelliJ IDEA RELEASE",
@@ -250,11 +250,11 @@
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIC-{version}-aarch64.dmg",
-      "version": "2022.2.1",
-      "sha256": "4bf843152fe009838dbb5e5a1d8e39ebf98df5f6771254cf1f26ff0b299798fd",
-      "url": "https://download.jetbrains.com/idea/ideaIC-2022.2.1-aarch64.dmg",
-      "version-major-minor": "2022.1",
-      "build_number": "222.3739.54"
+      "version": "2022.2.3",
+      "sha256": "333c70caf452034ae332cdded4d24a71592049b4045725eb57826a0b997d1c7a",
+      "url": "https://download.jetbrains.com/idea/ideaIC-2022.2.3-aarch64.dmg",
+      "version-major-minor": "2022.2",
+      "build_number": "222.4345.14"
     },
     "idea-ultimate": {
       "update-channel": "IntelliJ IDEA RELEASE",
