@@ -93,11 +93,11 @@
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}.tar.gz",
-      "version": "2022.2",
-      "sha256": "4300570552fb94932fe4311b6f8c7a071296e0c0c84246039f26f1b37dda9f0a",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2022.2.tar.gz",
-      "version-major-minor": "2022.1",
-      "build_number": "222.3345.111"
+      "version": "2022.2.3",
+      "sha256": "a8c3412db30ab7bd8b8601b0a50c95dc48a412391f1c33df27c47cf5d2204257",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2022.2.3.tar.gz",
+      "version-major-minor": "2022.2",
+      "build_number": "222.4345.14"
     },
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
@@ -203,11 +203,11 @@
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}.dmg",
-      "version": "2022.2",
-      "sha256": "d806254af68425089d40a7a302ce10c87283a25399e7b667e8d261b3958f4fbb",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2022.2.dmg",
-      "version-major-minor": "2022.1",
-      "build_number": "222.3345.111"
+      "version": "2022.2.3",
+      "sha256": "a04700159fcf3bfed74d196edc4c1150e5906dc4730d06ffd017b6bbb9bc853b",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2022.2.3.dmg",
+      "version-major-minor": "2022.2",
+      "build_number": "222.4345.14"
     },
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
@@ -313,11 +313,11 @@
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}-aarch64.dmg",
-      "version": "2022.2",
-      "sha256": "c7650443f16ab9cc0b3f6fc701164633bab079f11eeb7aa93b78f2ddc73640a0",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2022.2-aarch64.dmg",
-      "version-major-minor": "2022.1",
-      "build_number": "222.3345.111"
+      "version": "2022.2.3",
+      "sha256": "cd7a967c2745aca566569a320eb276773638d05fcd25839db18a098803d2c5f4",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2022.2.3-aarch64.dmg",
+      "version-major-minor": "2022.2",
+      "build_number": "222.4345.14"
     },
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
