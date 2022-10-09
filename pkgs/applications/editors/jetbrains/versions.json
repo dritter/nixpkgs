@@ -21,11 +21,11 @@
     "goland": {
       "update-channel": "GoLand RELEASE",
       "url-template": "https://download.jetbrains.com/go/goland-{version}.tar.gz",
-      "version": "2022.2.2",
-      "sha256": "c3cfc300f55adc3a52528d13a1133bffd2aa7c2d20ea301cd20e3aff52d87609",
-      "url": "https://download.jetbrains.com/go/goland-2022.2.2.tar.gz",
-      "version-major-minor": "2022.1",
-      "build_number": "222.3739.57"
+      "version": "2022.2.3",
+      "sha256": "fda47d9939b95d8995d1a375443025599cd74b1b5a2966273477ecfafa9ce4f1",
+      "url": "https://download.jetbrains.com/go/goland-2022.2.3.tar.gz",
+      "version-major-minor": "2022.2",
+      "build_number": "222.4167.25"
     },
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
@@ -131,11 +131,11 @@
     "goland": {
       "update-channel": "GoLand RELEASE",
       "url-template": "https://download.jetbrains.com/go/goland-{version}.dmg",
-      "version": "2022.2.2",
-      "sha256": "e11f07aebf849ed942c4b8658c11c70ce81b4138186a0301c0ec7cd236f1ff51",
-      "url": "https://download.jetbrains.com/go/goland-2022.2.2.dmg",
-      "version-major-minor": "2022.1",
-      "build_number": "222.3739.57"
+      "version": "2022.2.3",
+      "sha256": "f2e9f2455cf2e13f3b7ed28c18507aa758742c533cb1c07a1ebe62172a939b47",
+      "url": "https://download.jetbrains.com/go/goland-2022.2.3.dmg",
+      "version-major-minor": "2022.2",
+      "build_number": "222.4167.25"
     },
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
@@ -241,11 +241,11 @@
     "goland": {
       "update-channel": "GoLand RELEASE",
       "url-template": "https://download.jetbrains.com/go/goland-{version}-aarch64.dmg",
-      "version": "2022.2.2",
-      "sha256": "7098f05847c0524bc90b00766c71c2f1cc1442983da956c79ee1445b48da73fd",
-      "url": "https://download.jetbrains.com/go/goland-2022.2.2-aarch64.dmg",
-      "version-major-minor": "2022.1",
-      "build_number": "222.3739.57"
+      "version": "2022.2.3",
+      "sha256": "c3c790a45b36af006f743a70fb114782a9c4a2076d025de65894d0f39b0f48a5",
+      "url": "https://download.jetbrains.com/go/goland-2022.2.3-aarch64.dmg",
+      "version-major-minor": "2022.2",
+      "build_number": "222.4167.25"
     },
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
