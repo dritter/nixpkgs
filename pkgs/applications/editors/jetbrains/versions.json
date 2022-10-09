@@ -66,11 +66,11 @@
     "pycharm-community": {
       "update-channel": "PyCharm RELEASE",
       "url-template": "https://download.jetbrains.com/python/pycharm-community-{version}.tar.gz",
-      "version": "2022.2.1",
-      "sha256": "fc91b134b6899a09ce8cbdc1ebdbdcfe1c1ffb6dbe756b30b24d7ad131bf27c8",
-      "url": "https://download.jetbrains.com/python/pycharm-community-2022.2.1.tar.gz",
-      "version-major-minor": "2022.1",
-      "build_number": "222.3739.56"
+      "version": "2022.2.2",
+      "sha256": "2f361c5f59c685c9f8d1385029ed753eabe5b688a82acef6e83a50f0d2b9d7a8",
+      "url": "https://download.jetbrains.com/python/pycharm-community-2022.2.2.tar.gz",
+      "version-major-minor": "2022.2",
+      "build_number": "222.4167.33"
     },
     "pycharm-professional": {
       "update-channel": "PyCharm RELEASE",
@@ -176,11 +176,11 @@
     "pycharm-community": {
       "update-channel": "PyCharm RELEASE",
       "url-template": "https://download.jetbrains.com/python/pycharm-community-{version}.dmg",
-      "version": "2022.2.1",
-      "sha256": "8c2b322cab74cbf52dbe33e0fd9be63fe320d1ade2446790c4eec7309b590eea",
-      "url": "https://download.jetbrains.com/python/pycharm-community-2022.2.1.dmg",
-      "version-major-minor": "2022.1",
-      "build_number": "222.3739.56"
+      "version": "2022.2.2",
+      "sha256": "a7fbc83ea01e96c79a75fd061669fa0156b770e92c1153a03681fb67ee4a59ea",
+      "url": "https://download.jetbrains.com/python/pycharm-community-2022.2.2.dmg",
+      "version-major-minor": "2022.2",
+      "build_number": "222.4167.33"
     },
     "pycharm-professional": {
       "update-channel": "PyCharm RELEASE",
@@ -286,11 +286,11 @@
     "pycharm-community": {
       "update-channel": "PyCharm RELEASE",
       "url-template": "https://download.jetbrains.com/python/pycharm-community-{version}-aarch64.dmg",
-      "version": "2022.2.1",
-      "sha256": "c3abc618614be830dbf41479b74ae489aa44290d9bbb11e3c4d2cdffb4d569b6",
-      "url": "https://download.jetbrains.com/python/pycharm-community-2022.2.1-aarch64.dmg",
-      "version-major-minor": "2022.1",
-      "build_number": "222.3739.56"
+      "version": "2022.2.2",
+      "sha256": "8a6f1440cfc9aa47a89a8dda7d19bf50c9790fc12153f97d11e975327703d6e0",
+      "url": "https://download.jetbrains.com/python/pycharm-community-2022.2.2-aarch64.dmg",
+      "version-major-minor": "2022.2",
+      "build_number": "222.4167.33"
     },
     "pycharm-professional": {
       "update-channel": "PyCharm RELEASE",
