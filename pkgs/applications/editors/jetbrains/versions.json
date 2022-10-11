@@ -75,11 +75,11 @@
     "pycharm-professional": {
       "update-channel": "PyCharm RELEASE",
       "url-template": "https://download.jetbrains.com/python/pycharm-professional-{version}.tar.gz",
-      "version": "2022.2.2",
-      "sha256": "b7bfb86026fba669bb22429ab0840afba5047680202762070cfbb1f181d53d0e",
-      "url": "https://download.jetbrains.com/python/pycharm-professional-2022.2.2.tar.gz",
-      "version-major-minor": "2022.1",
-      "build_number": "222.4167.33"
+      "version": "2022.2.3",
+      "sha256": "c73750a2e27ed2410741a739071a920cca9844608a81f07735ed2e35a024cca1",
+      "url": "https://download.jetbrains.com/python/pycharm-professional-2022.2.3.tar.gz",
+      "version-major-minor": "2022.2",
+      "build_number": "222.4345.23"
     },
     "rider": {
       "update-channel": "Rider RELEASE",
@@ -185,11 +185,11 @@
     "pycharm-professional": {
       "update-channel": "PyCharm RELEASE",
       "url-template": "https://download.jetbrains.com/python/pycharm-professional-{version}.dmg",
-      "version": "2022.2.2",
-      "sha256": "9b2f5841fa5741881600fbf3b0d5686f2593a6771bb70454d4cb0cc3acd1e43a",
-      "url": "https://download.jetbrains.com/python/pycharm-professional-2022.2.2.dmg",
-      "version-major-minor": "2022.1",
-      "build_number": "222.4167.33"
+      "version": "2022.2.3",
+      "sha256": "920326a35589fee80e70b84d23184daf1d3efc8ecf4ec8c273c2bf2ec764a5b7",
+      "url": "https://download.jetbrains.com/python/pycharm-professional-2022.2.3.dmg",
+      "version-major-minor": "2022.2",
+      "build_number": "222.4345.23"
     },
     "rider": {
       "update-channel": "Rider RELEASE",
@@ -295,11 +295,11 @@
     "pycharm-professional": {
       "update-channel": "PyCharm RELEASE",
       "url-template": "https://download.jetbrains.com/python/pycharm-professional-{version}-aarch64.dmg",
-      "version": "2022.2.2",
-      "sha256": "30915c13c4ba2907f083dfa092bc3734e98a4ab83e2180221e52b9b04a93a1e2",
-      "url": "https://download.jetbrains.com/python/pycharm-professional-2022.2.2-aarch64.dmg",
-      "version-major-minor": "2022.1",
-      "build_number": "222.4167.33"
+      "version": "2022.2.3",
+      "sha256": "59d9553ab01de9460984f082c12fb0586aeb84eb00a4501bab358e516f1f6847",
+      "url": "https://download.jetbrains.com/python/pycharm-professional-2022.2.3-aarch64.dmg",
+      "version-major-minor": "2022.2",
+      "build_number": "222.4345.23"
     },
     "rider": {
       "update-channel": "Rider RELEASE",
