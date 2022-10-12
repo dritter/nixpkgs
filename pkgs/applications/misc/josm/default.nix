@@ -11,7 +11,7 @@ let
     };
     macosx = fetchurl {
       url = "https://josm.openstreetmap.de/download/macosx/josm-macos-${version}-java17.zip";
-      hash = "sha256-2xsHsaDxm/wjiCyS5tmD8uUlLrBdd3sS8JLal3pX3pA=";
+      hash = "sha256-EAEh/n7M56rzjtkIs8ZteDvOLuHxNsMyT7VGFyPre6s=";
     };
     pkg = fetchsvn {
       url = "https://josm.openstreetmap.de/svn/trunk/native/linux/tested";
