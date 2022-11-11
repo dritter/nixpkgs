@@ -123,7 +123,7 @@ let
 
     src = fetchurl {
       url = "https://people.freedesktop.org/~hughsient/releases/fwupd-${version}.tar.xz";
-      sha256 = "sha256-rfoHQ0zcKexBxA/vRg6Nlwlj/gx+hJ3sfzkyrbFh+IY=";
+      sha256-8qUJotM1A4QujPIjsxKPGu64oqUQcMAKAAGCmybkXPY=;
     };
 
     patches = [
