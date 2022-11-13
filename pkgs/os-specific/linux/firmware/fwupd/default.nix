@@ -114,7 +114,7 @@ let
 
   self = stdenv.mkDerivation rec {
     pname = "fwupd";
-    version = "1.8.4";
+    version = "1.8.7";
 
     # libfwupd goes to lib
     # daemon, plug-ins and libfwupdplugin go to out
