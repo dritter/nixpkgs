@@ -1,7 +1,7 @@
 { stdenv, fetchurl, dpkg, xorg
 , glib, libGLU, libGL, libpulseaudio, zlib, dbus, fontconfig, freetype
 , gtk3, pango
-, makeWrapper , python3Packages, lib
+, makeWrapper , python3Packages, lib, libcap
 , lsof, curl, libuuid, cups, mesa, xz, libxkbcommon
 }:
 
@@ -32,12 +32,17 @@ let
     libXrender
     libXScrnSaver
     libxcb
+    libcap
     glib
     gtk3
     pango
     curl
     libuuid
     cups
+    xcbutilwm.out         # libxcb-icccm.so.4
+    xcbutilimage.out      # libxcb-image.so.0
+    xcbutilkeysyms.out    # libxcb-keysyms.so.1
+    xcbutilrenderutil.out # libxcb-render-util.so.0
     xz
     libxkbcommon
   ]);
