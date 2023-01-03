@@ -1,0 +1,28 @@
+diff --git a/contrib/ci/fwupd_setup_helpers.py b/contrib/ci/fwupd_setup_helpers.py
+index 936589851..9adf8db2a 100755
+--- a/contrib/ci/fwupd_setup_helpers.py
++++ b/contrib/ci/fwupd_setup_helpers.py
+@@ -14,7 +14,7 @@ WARNING = "\033[93m"
+ ENDC = "\033[0m"
+ 
+ # Minimum version of markdown required
+-MINIMUM_MARKDOWN = (3, 2, 0)
++MINIMUM_MARKDOWN = (3, 3, 3)
+ 
+ # Minimum meson required
+ MINIMUM_MESON = "0.61.0"
+diff --git a/meson.build b/meson.build
+index 032fd7e11..5283e4ec2 100644
+--- a/meson.build
++++ b/meson.build
+@@ -550,8 +550,8 @@ if build_docs and gidocgen_dep.version().version_compare('< 2022.2')
+     check: true,
+   ).stdout().strip()
+   build_docs = get_option('docs').require(
+-    markdown_version.version_compare('>=3.2'),
+-    error_message: 'docs=enabled requires at least markdown >= 3.2'
++    markdown_version.version_compare('>=3.3'),
++    error_message: 'docs=enabled requires at least markdown >= 3.3'
+   ).allowed()
+ endif
+ 

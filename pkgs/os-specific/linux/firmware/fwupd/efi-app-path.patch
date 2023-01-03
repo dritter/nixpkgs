@@ -7,7 +7,7 @@ index b91dd037..01d70a61 100644
    endif
  
 -  efi_app_location = join_paths(libexecdir, 'fwupd', 'efi')
-+  efi_app_location = join_paths(dependency('fwupd-efi').get_pkgconfig_variable('prefix'), 'libexec', 'fwupd', 'efi')
++  efi_app_location = join_paths(dependency('fwupd-efi').get_variable('prefix'), 'libexec', 'fwupd', 'efi')
    conf.set_quoted('EFI_APP_LOCATION', efi_app_location)
  
    if host_cpu == 'x86'

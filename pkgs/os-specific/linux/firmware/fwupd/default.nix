@@ -19,7 +19,6 @@
 , libjcat
 , elfutils
 , libsmbios
-, efivar
 , valgrind
 , meson
 , libuuid
@@ -31,6 +30,7 @@
 , python3
 , wrapGAppsNoGuiHook
 , json-glib
+, efivar
 , bash-completion
 , shared-mime-info
 , umockdev
@@ -114,7 +114,7 @@ let
 
   self = stdenv.mkDerivation rec {
     pname = "fwupd";
-    version = "1.8.4";
+    version = "1.8.9";
 
     # libfwupd goes to lib
     # daemon, plug-ins and libfwupdplugin go to out
@@ -123,10 +123,14 @@ let
 
     src = fetchurl {
       url = "https://people.freedesktop.org/~hughsient/releases/fwupd-${version}.tar.xz";
-      sha256 = "sha256-rfoHQ0zcKexBxA/vRg6Nlwlj/gx+hJ3sfzkyrbFh+IY=";
+      sha256 = "sha256-cZp5GsS6WYiuuT7EJ3i9ZdM8sHXQwJO1wE5eFoK+Uoo=";
     };
 
     patches = [
+      # The requirement for markdown was lowered to 3.2.0, which leads to trouble.
+      # Here we raise this requirement to the previously required markdown 3.3.3.
+      ./raise_markdown_requirement.patch
+
       # Since /etc is the domain of NixOS, not Nix,
       # we cannot install files there.
       # Let’s install the files to $prefix/etc
@@ -210,8 +214,6 @@ let
       "-Dsysconfdir_install=${placeholder "out"}/etc"
       "-Defi_os_dir=nixos"
       "-Dplugin_modem_manager=enabled"
-      # Requires Meson 0.63
-      "-Dgresource_quirks=disabled"
 
       # We do not want to place the daemon into lib (cyclic reference)
       "--libexecdir=${placeholder "out"}/libexec"
@@ -254,13 +256,7 @@ let
     postPatch = ''
       patchShebangs \
         contrib/generate-version-script.py \
-        meson_post_install.sh \
         po/test-deps
-
-      # This checks a version of a dependency of gi-docgen but gi-docgen is self-contained in Nixpkgs.
-      echo "Clearing docs/test-deps.py"
-      test -f docs/test-deps.py
-      echo > docs/test-deps.py
 
       substituteInPlace data/installed-tests/fwupdmgr-p2p.sh \
         --replace "gdbus" ${glib.bin}/bin/gdbus
