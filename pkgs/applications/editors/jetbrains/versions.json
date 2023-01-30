@@ -27,10 +27,10 @@
     "goland": {
       "update-channel": "GoLand RELEASE",
       "url-template": "https://download.jetbrains.com/go/goland-{version}.tar.gz",
-      "version": "2022.3.1",
-      "sha256": "566eada40511cd06727d69047e8a6a1e75b06ebade93d1ea78262fc2715c8a38",
-      "url": "https://download.jetbrains.com/go/goland-2022.3.1.tar.gz",
-      "build_number": "223.8214.59"
+      "version": "2022.3.2",
+      "sha256": "f130d0e4c2c89dcd291e05cca33484eb08e247e9ec29c13deaf67176afbf6a36",
+      "url": "https://download.jetbrains.com/go/goland-2022.3.2.tar.gz",
+      "build_number": "223.8617.58"
     },
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
@@ -92,10 +92,10 @@
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}.tar.gz",
-      "version": "2022.3.1",
-      "sha256": "4d2adb310b14fb38afcaa2da5c254c2fc0bede109e597eed6d3c36837497591f",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2022.3.1.tar.gz",
-      "build_number": "223.8214.60"
+      "version": "2022.3.2",
+      "sha256": "8c803914c55a3c1801ff9b619870d81597fabedbfb08a7c1aecf24f5d0884aea",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2022.3.2.tar.gz",
+      "build_number": "223.8617.48"
     },
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
@@ -134,10 +134,10 @@
     "goland": {
       "update-channel": "GoLand RELEASE",
       "url-template": "https://download.jetbrains.com/go/goland-{version}.dmg",
-      "version": "2022.3.1",
-      "sha256": "296d5da052b59a00b0930cf6eea07eb2e5ed4eb1417ee505b013c6d83ffda2e1",
-      "url": "https://download.jetbrains.com/go/goland-2022.3.1.dmg",
-      "build_number": "223.8214.59"
+      "version": "2022.3.2",
+      "sha256": "8e12ae0ee0d88cd716ac76a8a49392a51236287984d84c19324a19758fe8fc03",
+      "url": "https://download.jetbrains.com/go/goland-2022.3.2.dmg",
+      "build_number": "223.8617.58"
     },
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
@@ -199,10 +199,10 @@
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}.dmg",
-      "version": "2022.3.1",
-      "sha256": "3b23165c3ea9ef3d87233a64005bee4fbf98c99df5d60410a1418e022ce032d6",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2022.3.1.dmg",
-      "build_number": "223.8214.60"
+      "version": "2022.3.2",
+      "sha256": "bea0a86a4ca00c08d78ccca7568ad5170798544c4a64b21bbfede126bdff0a99",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2022.3.2.dmg",
+      "build_number": "223.8617.48"
     },
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
@@ -241,10 +241,10 @@
     "goland": {
       "update-channel": "GoLand RELEASE",
       "url-template": "https://download.jetbrains.com/go/goland-{version}-aarch64.dmg",
-      "version": "2022.3.1",
-      "sha256": "5873200406e91ca64df50470eb20f907c568f5d95b7488cb4c3b3d3eb8353df4",
-      "url": "https://download.jetbrains.com/go/goland-2022.3.1-aarch64.dmg",
-      "build_number": "223.8214.59"
+      "version": "2022.3.2",
+      "sha256": "1df4707686f88e284e15a7fd63945b476dabf8e5a041894c281aba4838c603d9",
+      "url": "https://download.jetbrains.com/go/goland-2022.3.2-aarch64.dmg",
+      "build_number": "223.8617.58"
     },
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
@@ -306,10 +306,10 @@
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}-aarch64.dmg",
-      "version": "2022.3.1",
-      "sha256": "d0ec036ed67146beb46059a6ec9aa07d8caa2225e141183fe1d47e27170ad71a",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2022.3.1-aarch64.dmg",
-      "build_number": "223.8214.60"
+      "version": "2022.3.2",
+      "sha256": "346b990c412f272acc2fc7e87448f456d8d6a1978b7a94eb645f9cea806b083c",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2022.3.2-aarch64.dmg",
+      "build_number": "223.8617.48"
     },
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
