@@ -84,18 +84,18 @@
     "rider": {
       "update-channel": "Rider RELEASE",
       "url-template": "https://download.jetbrains.com/rider/JetBrains.Rider-{version}.tar.gz",
-      "version": "2023.1",
-      "sha256": "494cd8bbb41023ae4a53487e9ac46aacc68f52ee3e14c8621f49e2675d56fa9c",
-      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2023.1.tar.gz",
-      "build_number": "231.8109.212"
+      "version": "2023.1.1",
+      "sha256": "d50a7ed977e04ae50d6a16422a0968896fc6d94b0ab84d044ad3503d904570e0",
+      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2023.1.1.tar.gz",
+      "build_number": "231.8770.54"
     },
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}.tar.gz",
-      "version": "2023.1",
-      "sha256": "f9eabc980d82a9c9b27bc84daa7f1e786f41b17bbbfeca282985c6ed87e768ec",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2023.1.tar.gz",
-      "build_number": "231.8109.174"
+      "version": "2023.1.1",
+      "sha256": "44a852fa872751ba53b1a10eb5d136a407ae7db90e4e4f8c37ba282dcc9c1419",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2023.1.1.tar.gz",
+      "build_number": "231.8770.57"
     },
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
@@ -191,18 +191,18 @@
     "rider": {
       "update-channel": "Rider RELEASE",
       "url-template": "https://download.jetbrains.com/rider/JetBrains.Rider-{version}.dmg",
-      "version": "2023.1",
-      "sha256": "fe6ee0086b3e59eecc7e2816e8f803a702a6b7ea382cb0a2168d08d19dd656d7",
-      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2023.1.dmg",
-      "build_number": "231.8109.212"
+      "version": "2023.1.1",
+      "sha256": "72131efb1d4606cefd9bfb11cc98443a13f5b9761ac007484564db2107e7f8e9",
+      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2023.1.1.dmg",
+      "build_number": "231.8770.54"
     },
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}.dmg",
-      "version": "2023.1",
-      "sha256": "fba60e34520c807ba0a9124802e5782e2b4c8e63c27e07968b9cb642f0fc0a77",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2023.1.dmg",
-      "build_number": "231.8109.174"
+      "version": "2023.1.1",
+      "sha256": "2c37a3e8c8a9b800b9132f31d0cfdffbb3fd4ee83de13b3141187ec05a79e3e0",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2023.1.1.dmg",
+      "build_number": "231.8770.57"
     },
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
@@ -298,18 +298,18 @@
     "rider": {
       "update-channel": "Rider RELEASE",
       "url-template": "https://download.jetbrains.com/rider/JetBrains.Rider-{version}-aarch64.dmg",
-      "version": "2023.1",
-      "sha256": "dbd708379f2a489add7e87a321297841baf8bfcf83ce2f5549a1ff9f5037cf46",
-      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2023.1-aarch64.dmg",
-      "build_number": "231.8109.212"
+      "version": "2023.1.1",
+      "sha256": "b089e107bd81829fffe97509912c4467f8b4ea09fd5f38ebd8cc8c57e6adb947",
+      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2023.1.1-aarch64.dmg",
+      "build_number": "231.8770.54"
     },
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}-aarch64.dmg",
-      "version": "2023.1",
-      "sha256": "56d0202ea1261eb8ac5bd24f1cb044282cda5bd6c8306d3ec606109a3fe28fba",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2023.1-aarch64.dmg",
-      "build_number": "231.8109.174"
+      "version": "2023.1.1",
+      "sha256": "17327de2d4edd3fbddb47c96d4db1bfba716786eb5b74b4a2e3ba6d0482610f9",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2023.1.1-aarch64.dmg",
+      "build_number": "231.8770.57"
     },
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
