@@ -1,0 +1,9 @@
+{
+  "version": "18969",
+  "linux": {
+    "hash": "sha256-a8muRwE4+9WdYVz7lYE9dRnqVIGQxL8cFmIdBr2R65U="
+  },
+  "macosx": {
+    "hash": "sha256-npXY7WJM1+9ygeAw102UtimnI/yXqs5vgPnatm4AIrI="
+  }
+}
