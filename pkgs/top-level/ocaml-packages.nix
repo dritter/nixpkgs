@@ -957,7 +957,7 @@ let
     linol-lwt = callPackage ../development/ocaml-modules/linol/lwt.nix { };
 
     llvm = callPackage ../development/ocaml-modules/llvm {
-      libllvm = pkgs.llvmPackages_10.libllvm;
+      libllvm = pkgs.llvmPackages.libllvm;
     };
 
     lo = callPackage ../development/ocaml-modules/lo { };
@@ -1067,6 +1067,8 @@ let
     mew_vi = callPackage ../development/ocaml-modules/mew_vi { };
 
     mezzo = callPackage ../development/compilers/mezzo { };
+
+    middleware = callPackage ../development/ocaml-modules/middleware { };
 
     mimic = callPackage ../development/ocaml-modules/mimic { };
 
@@ -1981,7 +1983,7 @@ in let inherit (pkgs) callPackage; in rec
 
   ocamlPackages_latest = ocamlPackages_5_1;
 
-  ocamlPackages = ocamlPackages_4_14;
+  ocamlPackages = ocamlPackages_5_1;
 
   # This is a nasty way to replace toplevel janestreet attributes in the scope,
   # so that modules outside of ocamlPackages that depend on JS OCaml libraries
